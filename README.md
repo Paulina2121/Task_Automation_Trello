@@ -7,6 +7,13 @@ The automation reads tasks from a Trello board - To do List, identifies VAT veri
 The project demonstrates **API integration (Trello), web automation (VIES), data processing (excel), and clean project structuring**.
 
 ---
+## Prerequisites
+
+Before running the project, you need:
+
+- A Trello account
+- A Trello board with a "To Do.Done/Exception/Manual Handling" list
+- Trello API credentials
 
 ## Business Use Case
 In many organizations, VAT numbers must be manually verified for invoices or suppliers.  
